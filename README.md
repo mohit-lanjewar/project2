@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system
-created by Mohit Lanjewar
+created by Mohit Lanjewar.
